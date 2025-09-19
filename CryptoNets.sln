@@ -2,23 +2,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HE Wrapper", "HE Wrapper\HE Wrapper.csproj", "{23AB097C-FD1F-451B-B5DC-875E09E5699A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HE Wrapper", "HE Wrapper\HE Wrapper.csproj", "{23AB097C-FD1F-451B-B5DC-875E09E5699A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic Example", "Basic Example\Basic Example.csproj", "{07D4A54F-4E6B-4ED5-8A71-9E31B876385B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Basic Example", "Basic Example\Basic Example.csproj", "{07D4A54F-4E6B-4ED5-8A71-9E31B876385B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuralNetworks", "NeuralNetworks\NeuralNetworks.csproj", "{EA13024B-33C1-4659-83F7-99D87031C5DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NeuralNetworks", "NeuralNetworks\NeuralNetworks.csproj", "{EA13024B-33C1-4659-83F7-99D87031C5DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoNets", "CryptoNets\CryptoNets.csproj", "{736D8CB8-353D-4E07-9770-7E34F7F41BE1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CryptoNets", "CryptoNets\CryptoNets.csproj", "{736D8CB8-353D-4E07-9770-7E34F7F41BE1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HE Wrapper Tests", "HE Wrapper Tests\HE Wrapper Tests.csproj", "{F2D7CEB5-466E-42E9-A6D7-C9EA7E4F1FAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HE Wrapper Tests", "HE Wrapper Tests\HE Wrapper Tests.csproj", "{F2D7CEB5-466E-42E9-A6D7-C9EA7E4F1FAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LowLatencyCryptoNets", "LowLatencyCryptoNets\LowLatencyCryptoNets.csproj", "{FA3EC7C0-907C-4369-ACC0-1493C2FDE3F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LowLatencyCryptoNets", "LowLatencyCryptoNets\LowLatencyCryptoNets.csproj", "{FA3EC7C0-907C-4369-ACC0-1493C2FDE3F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuralNetworksTest", "NeuralNetworksTest\NeuralNetworksTest.csproj", "{D72F29C5-0854-4AD1-9BD0-D91F4D520FF3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NeuralNetworksTest", "NeuralNetworksTest\NeuralNetworksTest.csproj", "{D72F29C5-0854-4AD1-9BD0-D91F4D520FF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CifarCryptoNet", "CifarCryptoNet\CifarCryptoNet.csproj", "{111D44F9-D128-4653-BDE4-29A1438DBF3E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CifarCryptoNet", "CifarCryptoNet\CifarCryptoNet.csproj", "{111D44F9-D128-4653-BDE4-29A1438DBF3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caltech101", "Caltech101\Caltech101.csproj", "{21CBCF79-9ACB-407A-8CD4-392DDCF9AF2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Caltech101", "Caltech101\Caltech101.csproj", "{21CBCF79-9ACB-407A-8CD4-392DDCF9AF2A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{6F9DF87F-3D81-4248-80AE-9D972474797E}"
 	ProjectSection(SolutionItems) = preProject
@@ -29,7 +29,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Inference Applications", "I
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{EACFC0D6-38A7-4099-A3FB-15B2BF4EF7B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataPreprocess", "DataPreprocess\DataPreprocess.csproj", "{16A2DCEE-CF86-4BBD-B35B-5BB2EF88DAFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataPreprocess", "DataPreprocess\DataPreprocess.csproj", "{16A2DCEE-CF86-4BBD-B35B-5BB2EF88DAFF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2436DFD4-18A0-4E27-97BC-CD43D2CF1E88}"
 	ProjectSection(SolutionItems) = preProject
